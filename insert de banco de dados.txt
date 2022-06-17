@@ -1,0 +1,37 @@
+inserts dados banco
+
+insert into colors (url_image, status) values ('https://img.freepik.com/fotos-gratis/bolsas-cor-de-rosa_1203-7710.jpg?w=996&t=st=1655425141~exp=1655425741~hmac=2826f43fb1764c3df3f61f7567a6b32f7d6958bb73ee6e60f02aa7fbb9d210db', true);
+insert into colors (url_image, status) values ('https://img.freepik.com/fotos-gratis/bela-elegancia-e-luxo-moda-rosa-mulheres-bolsa_1203-7653.jpg?w=996&t=st=1655425142~exp=1655425742~hmac=a29a019fc67fb7dbcfe9416a4cd5ecd0d49cb665421290460d2d45105ba898c8', true);
+insert into colors (url_image, status) values ('https://img.freepik.com/fotos-gratis/bolsa-de-couro-para-senhora_78621-3347.jpg?w=996', true);
+insert into colors (url_image, status) values ('https://img.freepik.com/fotos-gratis/mujer-joven-sosteniendo-una-bolsa-de-regalo-para-vacaciones-regalos-y-fiestas_178728-78.jpg?w=996', true);
+insert into colors (url_image, status) values ('https://i.pinimg.com/564x/1b/fa/0b/1bfa0b96466024d3dda87d77e862031f.jpg', true);
+insert into colors (url_image, status) values ('https://i.pinimg.com/564x/d3/ce/bb/d3cebb38fb2a0ecba09196cae5a707aa.jpg', true);
+insert into colors (url_image, status) values ('https://i.pinimg.com/564x/dc/74/0b/dc740b23f7fe8929404d60d9c3bbf804.jpg', true);
+insert into colors (url_image, status) values ('https://i.pinimg.com/564x/f0/ad/61/f0ad61f5bf5bae8b79e32aee9ec67698.jpg', true);
+insert into colors (url_image, status) values ('https://i.pinimg.com/564x/db/cc/ad/dbccad8c6d72eef83437ac639e27a345.jpg', true);
+insert into colors (url_image, status) values ('https://i.pinimg.com/564x/e6/0f/4d/e60f4dd184df80f69e4afc2bc9232858.jpg', true);
+insert into colors (url_image, status) values ('https://i.pinimg.com/564x/61/54/46/615446907efa787e0528353ce6b52916.jpg', true);
+insert into colors (url_image, status) values ('https://i.pinimg.com/564x/d6/9f/cb/d69fcb83888e0571fcc532693fa5c3a7.jpg', true);
+insert into colors (url_image, status) values ('https://i.pinimg.com/564x/37/11/c4/3711c47758a14bfdf2ac1f5956574667.jpg', true);
+
+
+insert into colors (url_image, status) values ('Preto', true);
+insert into colors (url_image, status) values ('Branco', true);
+insert into colors (url_image, status) values ('Azul', true);
+insert into colors (url_image, status) values ('Roxo', true);
+insert into colors (url_image, status) values ('Rosa', true);
+insert into colors (url_image, status) values ('Vermelho', true);
+insert into colors (url_image, status) values ('Laranja', true);
+insert into colors (url_image, status) values ('Amarelo', true);
+insert into colors (url_image, status) values ('Verde', true);
+insert into colors (url_image, status) values ('Cinza', true);
+insert into colors (url_image, status) values ('Dourado', true);
+insert into colors (url_image, status) values ('Marron', true);
+insert into colors (url_image, status) values ('Nude', true);
+
+insert into colors (name, status) values ('Bolsa', true);
+insert into categorys (name, status) values ('Calçados', true);
+insert into categorys (name, status) values ('Jaqueta', true);
+insert into categorys (name, status) values ('Blusinha', true);
+insert into categorys (name, status) values ('Acessórios', true);
+insert into categorys (name, status) values ('Calças', true);
